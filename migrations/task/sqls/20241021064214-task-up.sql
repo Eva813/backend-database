@@ -23,6 +23,7 @@ insert into "USER" (name, email, role) values
 ('Q太郎', 'starplatinum@hexschooltest.io', 'USER'),
 ('透明人', 'opcatiy0@hexschooltest.io', 'USER');
 
+
 -- 1-2 修改：用 Email 找到 李燕容、肌肉棒子、Q太郎，如果他的 Role 為 USER 將他的 Role 改為 COACH
 
 -- 1-3 刪除：刪除USER 資料表中，用 Email 找到透明人，並刪除該筆資料
